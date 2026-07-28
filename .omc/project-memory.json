@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1776479095928,
-  "projectRoot": "C:\\Users\\seele\\Desktop\\elysia-feng",
+  "lastScanned": 1785219704169,
+  "projectRoot": "D:\\python\\elias\\elaysia-feng",
   "techStack": {
     "languages": [
       {
@@ -34,7 +34,10 @@
     "isMonorepo": false,
     "workspaces": [],
     "mainDirectories": [],
-    "gitBranches": null
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
   },
   "customNotes": [],
   "directoryMap": {
@@ -42,7 +45,7 @@
       "path": "images",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1776479095867,
+      "lastAccessed": 1785219704108,
       "keyFiles": [
         "avatar-main.jpg",
         "hobby-1.jpg",
@@ -53,15 +56,21 @@
   },
   "hotPaths": [
     {
-      "path": "README.md",
+      "path": "",
       "accessCount": 6,
-      "lastAccessed": 1776479530197,
+      "lastAccessed": 1785220410834,
+      "type": "directory"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 3,
+      "lastAccessed": 1785220400456,
       "type": "file"
     },
     {
       "path": "package.json",
       "accessCount": 1,
-      "lastAccessed": 1776479147841,
+      "lastAccessed": 1785219734072,
       "type": "file"
     }
   ],
