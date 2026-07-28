@@ -1,31 +1,25 @@
 <!--
   Elias 不吃糖 · GitHub Profile README
-  Local images only for custom art; shields.io + github-readme-stats for badges/stats
+  Theme: Lycoris-style field agent dossier
+  Palette: signature red #e8544a · cream #f6ecdf · navy #4c6fa5 · gold #f0b45c · ink #0d1117
 -->
 
 <div align="center">
-  <img src="images/banner.svg" alt="Elias" width="100%" />
+  <img src="images/banner.svg" alt="Elias — Field Agent File" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="images/avatar-main.jpg" width="140" height="140" alt="Elias" />
+  <img src="images/avatar-main.jpg" width="150" height="150" alt="Elias 不吃糖" />
+  <br/>
+  <img src="https://img.shields.io/badge/CODENAME-ELIAS%20%E4%B8%8D%E5%90%83%E7%B3%96-e8544a?style=flat-square&labelColor=0d1117" alt="Codename"/>
+  <img src="https://img.shields.io/badge/CLASS-BACKEND%20%2F%20AI%20AGENT-4c6fa5?style=flat-square&labelColor=0d1117" alt="Class"/>
 </div>
 
-<h1 align="center">Elias 不吃糖</h1>
-
+<h3 align="center">Agent &amp; Distributed Systems Developer</h3>
 <p align="center">
-  <strong>Agent &amp; Distributed Systems Developer</strong><br/>
   <sub>Java / Python / C++ · LangChain / LangGraph · Epoll / IO_uring</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-e85d4c?style=flat-square&labelColor=0d1117" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-58a6ff?style=flat-square&labelColor=0d1117" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/AI%20Agent-3fb950?style=flat-square&labelColor=0d1117" alt="AI Agent"/>
-  <img src="https://img.shields.io/badge/Distributed%20IM-1f6feb?style=flat-square&labelColor=0d1117" alt="Distributed IM"/>
-  <img src="https://img.shields.io/badge/Epoll%20%2F%20IO_uring-f5a623?style=flat-square&labelColor=0d1117" alt="Epoll / IO_uring"/>
 </p>
 
 <p align="center">
@@ -37,20 +31,33 @@
 
 ---
 
-## GitHub Stats
+### ◆ Agent Dossier
+
+| Field | Entry |
+| ---: | :--- |
+| **Codename** | Elias 不吃糖 |
+| **Class** | Backend / Distributed Systems Agent |
+| **Faction** | AI Agent · Low-Latency IM |
+| **Loadout** | Java · Python · C++ · LangChain / LangGraph |
+| **Passive Skill** | Kernel-level I/O tuning (Epoll / IO_uring) |
+| **Status** | Active — open to new missions |
+
+做 **AI Agent** 与 **低延迟分布式系统**。关心的不是堆框架，而是连接数、端到端延迟，以及系统在故障时是否还能自己站起来。
+
+---
+
+### ◆ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elaysia-feng&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=e85d4c&icon_color=e85d4c&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elaysia-feng&layout=compact&theme=dark&hide_border=true&title_color=e85d4c&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elaysia-feng&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=e8544a&icon_color=e8544a&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elaysia-feng&layout=compact&theme=dark&hide_border=true&title_color=e8544a&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" height="170" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=elaysia-feng&theme=github-dark&hide_border=true&background=0D1117&ring=E85D4C&fire=E85D4C&currStreakLabel=E85D4C" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=elaysia-feng&theme=github-dark&hide_border=true&background=0D1117&ring=E8544A&fire=E8544A&currStreakLabel=E8544A" alt="GitHub streak" />
 </div>
 
 ---
 
-## About Me
-
-做 **AI Agent** 与 **低延迟分布式系统**。关心的不是堆框架，而是连接数、端到端延迟，以及系统在故障时是否还能自己站起来。
+### ◆ Focus Areas
 
 | Focus | What I care about |
 | :--- | :--- |
@@ -61,7 +68,7 @@
 
 ---
 
-## Tech Stack
+### ◆ Tech Stack
 
 **Languages**
 
@@ -102,27 +109,27 @@
 
 ---
 
-## Featured Projects
+### ◆ Mission Files
 
-### [NebulaChat](https://github.com/elaysia-feng/NebulaChat) · Distributed IM Platform
+**[NebulaChat](https://github.com/elaysia-feng/NebulaChat)** · Distributed IM Platform
 
 High-performance distributed IM built on Epoll + Reactor pattern, supporting **10k+** persistent connections with end-to-end latency **&lt; 10ms**. Integrated with MySQL + Redis + Protobuf, complete monitoring and stress-testing pipeline with second-level scaling.
 
 `C++17` `Epoll` `MySQL` `Redis` `Protobuf` `gRPC`
 
-[View Project](https://github.com/elaysia-feng/NebulaChat)
+[View Project →](https://github.com/elaysia-feng/NebulaChat)
 
-### [MoreChat](https://github.com/elaysia-feng/MoreChat) · Modern C++ IM
+**[MoreChat](https://github.com/elaysia-feng/MoreChat)** · Modern C++ IM
 
 Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** unit test coverage, full CI/CD pipeline automation, and regular performance benchmarking.
 
 `C++20` `ASIO` `CMake` `Docker` `GTest`
 
-[View Project](https://github.com/elaysia-feng/MoreChat)
+[View Project →](https://github.com/elaysia-feng/MoreChat)
 
 ---
 
-## Engineering Philosophy
+### ◆ Engineering Philosophy
 
 | Principle | Meaning |
 | :--- | :--- |
@@ -132,7 +139,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 | **Code Hygiene** | RAII · Strong types · Few raw pointers · Testability first. |
 
 <details>
-<summary><strong>Recent Interests</strong></summary>
+<summary><strong>Intel Log — Recent Interests</strong></summary>
 
 - IO_uring + coroutines in high-concurrency: benefits and pitfalls
 - Lightweight monitoring agent (unified metrics / logs / traces)
@@ -142,7 +149,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 
 ---
 
-## Moments
+### ◆ Off-Duty
 
 <div align="center">
   <img src="images/life-1.jpg" width="240" alt="Moment 1" />
@@ -152,7 +159,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 
 ---
 
-## Contact
+### ◆ Contact
 
 | | |
 | ---: | :--- |
