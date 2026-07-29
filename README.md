@@ -1,25 +1,27 @@
 <!--
   Elias 不吃糖 · GitHub Profile README
-  Theme: Lycoris-style field agent dossier
-  Palette: signature red #e8544a · cream #f6ecdf · navy #4c6fa5 · gold #f0b45c · ink #0d1117
+  Theme: anime-style "SSR agent card" hero (self-hosted SVG, no external deps for the hero)
+  Palette: signature red #e8544a · gold #f0b45c · cream #f6ecdf · ink #0d1117
 -->
 
 <div align="center">
-  <img src="images/banner.svg" alt="Elias — Field Agent File" width="100%" />
+  <img src="images/card.svg" alt="Elias - Agent Card" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="images/avatar-main.jpg" width="150" height="150" alt="Elias 不吃糖" />
-  <br/>
-  <img src="https://img.shields.io/badge/CODENAME-ELIAS%20%E4%B8%8D%E5%90%83%E7%B3%96-e8544a?style=flat-square&labelColor=0d1117" alt="Codename"/>
-  <img src="https://img.shields.io/badge/CLASS-BACKEND%20%2F%20AI%20AGENT-4c6fa5?style=flat-square&labelColor=0d1117" alt="Class"/>
 </div>
 
-<h3 align="center">Agent &amp; Distributed Systems Developer</h3>
+<h1 align="center">Elias 不吃糖</h1>
 <p align="center">
+  <strong>Agent &amp; Distributed Systems Developer</strong><br/>
   <sub>Java / Python / C++ · LangChain / LangGraph · Epoll / IO_uring</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=E8544A&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+low-latency+systems;10k%2B+connections+%C2%B7+e2e+latency+%3C+10ms;LangChain+%2F+LangGraph+%C2%B7+Multi-Agent;Data-driven.+Observability-first." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,22 +33,7 @@
 
 ---
 
-### ◆ Agent Dossier
-
-| Field | Entry |
-| ---: | :--- |
-| **Codename** | Elias 不吃糖 |
-| **Class** | Backend / Distributed Systems Agent |
-| **Faction** | AI Agent · Low-Latency IM |
-| **Loadout** | Java · Python · C++ · LangChain / LangGraph |
-| **Passive Skill** | Kernel-level I/O tuning (Epoll / IO_uring) |
-| **Status** | Active — open to new missions |
-
-做 **AI Agent** 与 **低延迟分布式系统**。关心的不是堆框架，而是连接数、端到端延迟，以及系统在故障时是否还能自己站起来。
-
----
-
-### ◆ GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elaysia-feng&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=e8544a&icon_color=e8544a&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats" height="170" />
@@ -57,7 +44,21 @@
 
 ---
 
-### ◆ Focus Areas
+### Live Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</div>
+
+---
+
+### About Me
+
+做 **AI Agent** 与 **低延迟分布式系统**。关心的不是堆框架，而是连接数、端到端延迟，以及系统在故障时是否还能自己站起来。
 
 | Focus | What I care about |
 | :--- | :--- |
@@ -68,7 +69,7 @@
 
 ---
 
-### ◆ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -109,7 +110,7 @@
 
 ---
 
-### ◆ Mission Files
+### Mission Files
 
 **[NebulaChat](https://github.com/elaysia-feng/NebulaChat)** · Distributed IM Platform
 
@@ -129,7 +130,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 
 ---
 
-### ◆ Engineering Philosophy
+### Engineering Philosophy
 
 | Principle | Meaning |
 | :--- | :--- |
@@ -149,7 +150,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 
 ---
 
-### ◆ Off-Duty
+### Off-Duty
 
 <div align="center">
   <img src="images/life-1.jpg" width="240" alt="Moment 1" />
@@ -159,7 +160,7 @@ Coroutine + Async I/O driven modern IM with log and config hot-reload, **85%+** 
 
 ---
 
-### ◆ Contact
+### Contact
 
 | | |
 | ---: | :--- |
