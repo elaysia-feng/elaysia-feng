@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="images/avatar-circle.png" width="128" height="128" alt="Elias 不吃糖" />
+  <img src="images/avatar-circle.png" width="200" height="200" alt="Rei Ayanami · 绫波丽" />
 
   <br/><br/>
 
