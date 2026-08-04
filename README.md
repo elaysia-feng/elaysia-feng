@@ -1,9 +1,5 @@
 <div align="center">
 
-  <img src="images/card.svg" alt="Elias - Agent Card" width="100%" />
-
-  <br/><br/>
-
   <img src="images/avatar-circle.png" width="128" height="128" alt="Elias 不吃糖" />
 
   <br/><br/>
