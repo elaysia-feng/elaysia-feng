@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="images/avatar-main.jpg" width="118" height="118" style="border-radius:50%;border:3px solid #58a6ff;box-shadow:0 0 40px rgba(88,166,255,0.35);object-fit:cover;" alt="Elias 不吃糖" />
+<img src="images/avatar-circle.png" width="118" height="118" alt="Elias 不吃糖" />
 
 <br/>
 
-[![Animated intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Agent+%7C+LangChain+%2F+LangGraph;Low-Latency+IM+%7C+Epoll+%2F+IO_uring;C%2B%2B+%7C+Java+%7C+Python;Distributed+Systems+%26+Observability)]()
+![Animated intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Agent+%7C+LangChain+%2F+LangGraph;Low-Latency+IM+%7C+Epoll+%2F+IO_uring;C%2B%2B+%7C+Java+%7C+Python;Distributed+Systems+%26+Observability)
 
 <br/>
 
@@ -29,17 +29,17 @@
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=elaysia-feng&theme=github-dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideNums=6e7681&currStreakNum=3fb950&sideLabels=6e7681" alt="GitHub streak" />
-</p>
+</div>
 
 ---
 
 ## Contribution Graph
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake.svg" width="100%" alt="Elias contribution snake" />
-</p>
+</div>
 
 ---
 
