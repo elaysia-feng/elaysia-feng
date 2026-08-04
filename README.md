@@ -59,7 +59,10 @@
   </h2>
 
   <div style="border:1px solid #30363d;border-radius:12px;overflow:hidden;background:#010409;padding:10px;">
-    <img src="https://ghchart.rshah.org/58a6ff/elaysia-feng" width="100%" alt="Elias contribution graph" style="border-radius:8px;" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake-dark.svg" />
+      <img src="https://raw.githubusercontent.com/elaysia-feng/elaysia-feng/output/github-contribution-grid-snake.svg" width="100%" alt="Elias contribution snake" style="border-radius:8px;" />
+    </picture>
   </div>
 
   <hr style="border:none;height:1px;background:linear-gradient(90deg,transparent,#30363d,transparent);margin:36px 0;" />
