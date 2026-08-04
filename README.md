@@ -45,8 +45,6 @@
   </h2>
 
   <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=elaysia-feng&amp;theme=transparent&amp;show_icons=true&amp;icon_color=58a6ff&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;bg_color=0d1117&amp;rank_icon=github&amp;border_color=30363d" alt="GitHub stats" style="max-width:100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elaysia-feng&amp;theme=transparent&amp;layout=compact&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;bg_color=0d1117&amp;border_color=30363d" alt="Top languages" style="max-width:100%;" />
     <img src="https://streak-stats.demolab.com/?user=elaysia-feng&amp;theme=github-dark&amp;background=0d1117&amp;border=30363d&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=3fb950&amp;currStreakLabel=58a6ff&amp;sideNums=6e7681&amp;currStreakNum=3fb950&amp;sideLabels=6e7681" alt="GitHub streak" style="max-width:100%;" />
   </div>
 
@@ -193,30 +191,6 @@
       <span style="width:7px;height:7px;border-radius:50%;background:#f0883e;box-shadow:0 0 8px rgba(255,166,88,0.8);"></span>
       IM 场景下一致性 vs 可用性的落地取舍
     </span>
-  </div>
-
-  <hr style="border:none;height:1px;background:linear-gradient(90deg,transparent,#30363d,transparent);margin:36px 0;" />
-
-  <!-- ======================== ACHIEVEMENTS ======================== -->
-
-  <h2 style="margin:0 0 20px;font-size:1.2rem;font-weight:700;color:#e6edf3;display:flex;align-items:center;justify-content:center;gap:8px;">
-    <span style="color:#f5a623;display:inline-flex;align-items:center;"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg></span> Achievements
-  </h2>
-
-  <div style="display:flex;justify-content:center;overflow-x:auto;padding-bottom:4px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=elaysia-feng&amp;theme=onedark&amp;row=1&amp;column=6&amp;no-bg=true&amp;no-frame=true&amp;margin-w=10&amp;margin-h=10" alt="GitHub Trophies" style="max-width:100%;" />
-  </div>
-
-  <hr style="border:none;height:1px;background:linear-gradient(90deg,transparent,#30363d,transparent);margin:36px 0;" />
-
-  <!-- ======================== WAKATIME ======================== -->
-
-  <h2 style="margin:0 0 20px;font-size:1.2rem;font-weight:700;color:#e6edf3;display:flex;align-items:center;justify-content:center;gap:8px;">
-    <span style="color:#58a6ff;display:inline-flex;align-items:center;"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span> WakaTime
-  </h2>
-
-  <div style="display:flex;justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elaysia&amp;theme=github-dark&amp;border_color=30363d&amp;title_color=58a6ff&amp;text_color=e6edf3&amp;bg_color=0d1117&amp;layout=compact" alt="WakaTime stats" style="max-width:100%;" />
   </div>
 
   <hr style="border:none;height:1px;background:linear-gradient(90deg,transparent,#30363d,transparent);margin:36px 0;" />
