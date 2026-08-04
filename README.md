@@ -21,17 +21,14 @@
 
 ---
 
-### 二次元 Gallery
+### 喜欢
 
 <div align="center">
 
-  <img src="images/anime-adachi-1.jpg" width="49%" alt="安达与岛村 · Adachi & Shimamura" />
-  <img src="images/anime-adachi-2.jpg" width="49%" alt="安达与岛村 · Adachi & Shimamura" />
-
-  <br/>
-
-  <img src="images/anime-bloom-1.jpg" width="49%" alt="终将成为你 · Bloom Into You" />
-  <img src="images/anime-bloom-2.jpg" width="49%" alt="终将成为你 · Bloom Into You" />
+  <img src="images/anime-adachi-1.jpg" width="23%" alt="安达与岛村 · Adachi & Shimamura" />
+  <img src="images/anime-adachi-2.jpg" width="23%" alt="安达与岛村 · Adachi & Shimamura" />
+  <img src="images/anime-bloom-1.jpg" width="23%" alt="终将成为你 · Bloom Into You" />
+  <img src="images/anime-bloom-2.jpg" width="23%" alt="终将成为你 · Bloom Into You" />
 
 </div>
 
